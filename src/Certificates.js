@@ -4,7 +4,7 @@ function Certificates(){
 	return(
 		<div style={{width:"345px",height:"600px"}} className='bg-light-yellow dib br3 pa3 fl grow sans-serif'>
 			<div className="tc br3 bg-lightest-blue">
-				<h2>Contact</h2>
+				<h2>Certificates</h2>
 			</div>
 			<div>
 				<b>Mobile Number</b><br/>9953082470
